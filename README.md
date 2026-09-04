@@ -13,7 +13,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aditi-81.aditi-81&"  />
+  <img src="https://jsdelivr.net" height="40" alt="C logo" />
+  <img src="https://jsdelivr.net" height="40" alt="Java logo" />
+  <img src="https://jsdelivr.net" height="40" alt="HTML logo" />
+  <img src="https://jsdelivr.net" height="40" alt="CSS logo" />
 </div>
 
 ###
